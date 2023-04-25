@@ -1,2 +1,2 @@
 # fit-wordpress
- Wordpress website to use in FIT instance project
+ Wordpress website to use in FIT openstack instance 
